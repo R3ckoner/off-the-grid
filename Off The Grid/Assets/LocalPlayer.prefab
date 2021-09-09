@@ -192,7 +192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a28b3f80398f0fa4f95ea4538fe44cf8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 5379496793894326903}
   sensitivity: 100
   clampAngle: 85
 --- !u!1 &4897590356005532461
